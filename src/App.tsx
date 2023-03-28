@@ -19,7 +19,7 @@ function App() {
         "Access-Control-Allow-Origin": "*",
         "Access-Control-Allow-Methods": "GET, PUT, POST, DELETE, OPTIONS",
         "Access-Control-Allow-Headers": "Origin, Content-Type, Authorization",
-        "Authorization": `Bearer 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`,
+        "Authorization": `Bearer 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`,
 
       },
     }

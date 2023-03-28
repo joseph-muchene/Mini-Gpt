@@ -17,7 +17,7 @@ export default function Input({ sourceText,
 
 
           <textarea
-            className="form-control "
+            className="form-control  "
             id=""
             placeholder="write prompt"
             name="source"
